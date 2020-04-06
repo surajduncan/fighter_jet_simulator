@@ -1,5 +1,5 @@
-CSCI 3161 Project - Flight Simulator
-By Matthew Thomas, mthomas@cs.dal.ca
+CG Project - Flight Simulator
+By Suraj Duncan , surajduncant98@gmail.com
 Banner: B00558461
 
 Ensure that the resources and textures folders are in the same location as the application before running.
